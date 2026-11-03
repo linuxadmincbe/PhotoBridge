@@ -1,0 +1,6 @@
+# Allow only reviewed project files; keep credentials and personal media local.
+*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/sync.py
